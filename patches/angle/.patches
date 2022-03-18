@@ -2,3 +2,4 @@ vangle_change_the_default_vulkan_device_choose_logic.patch
 m98_vulkan_fix_vkcmdresolveimage_extents.patch
 m98_vulkan_fix_vkcmdresolveimage_offsets.patch
 cherry-pick-49e8ff16f1fe.patch
+m96-lts_fix_base_level_changes_not_updating_fbo_completeness_check.patch
